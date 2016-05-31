@@ -1,0 +1,1 @@
+﻿package window.whiteboard.imgdoc {    import flash.display.*;	import flash.events.*;	import flash.geom.*;		public class IconDir extends Sprite {		static public const W:uint = 15;		public function IconDir() {		}		public function open( b) {		}	}}

@@ -1,0 +1,1 @@
+﻿package window.whiteboard.imgdoc {	import flash.events.*;			public class PreMultiDocRemoveEvent extends Event {		static public const REMOVED:String = "PreMultiDocRemoveEvent REMOVED";		public var removingDocIdArr:Array;		public function PreMultiDocRemoveEvent( type:String, removingDocIdArr:Array) {			super( type);			this.removingDocIdArr = removingDocIdArr;		}	}}

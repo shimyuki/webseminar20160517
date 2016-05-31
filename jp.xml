@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<param default="WB同期あり" change="" />
+<param default="WB同期なし" change="" />
+
+<param default="講師" change="管理者" />
+<param default="講師映像" change="管理者映像" />
+<param default="受講生クイック一覧" change="ユーザークイック一覧" />
+<param default="チャットとアクションログ" change="チャット" />
+<param default="ホワイトボード" change="" />
+<param default="受講生一覧" change="ユーザー一覧" />
+<param default="環境設定" change="" />
+<param default="アンケート" change="ライブアンケート" />
+<param default="ファイル送信" change="" />
+<param default="受信ファイル" change="共有ファイル" />
+<param default="個別チャット" change="" />
+<param default="入室視聴者" change="" />
+<param default="空" change="" />
+
+<param default="入室時間" change="" />
+
+<param default="変更" change="" />
+<param default="削除" change="" />
+<param default="詳細" change="" />
+<param default="変更を適用する" change="" />
+<param default="適用する" change="" />
+<param default="適用しました" change="" />
+<param default="保存する" change="" />
+<param default="保存しました" change="" />
+
+<param default="画像" change="" />
+<param default="動画配信／権限の設定" change="" />
+<param default="個別チャット" change="" />
+<param default="アクションログ" change="" />
+<param default="講師の動画配信設定" change="管理者の動画配信設定" />
+<param default="受講生設定の一括変更" change="ユーザー設定の一括変更" />
+<param default="新しい画面モードを作成" change="" />
+<param default="画面モード一覧" change="" />
+<param default="画面モード一覧に追加しました" change="" />
+
+<param default="映像" change="" />
+<param default="音声" change="" />
+<param default="ホワイトボード書き込み権限" change="" />
+<param default="強制退去" change="" />
+<param default="資料の自由閲覧権限" change="" />
+<param default="帯域幅" change="" />
+<param default="最大フレームレート" change="" />
+<param default="カメラキャプチャサイズ" change="" />
+<param default="音質" change="" />
+<param default="無音判定レベル" change="" />
+<param default="サウンドのゲイン(増幅率)" change="" />
+<param default="音声コーデック" change="" />
+<param default="受講生全員にも適用する" change="ユーザー全員にも適用する" />
+<param default="講師にも適用する" change="管理者にも適用する" />
+<param default="配信映像の録画機能" change="" />
+<param default="使用する（録画停止毎にファイルを分ける）" change="" />
+<param default="使用する（録画ファイルをつなげる）" change="" />
+<param default="低" change="" />
+<param default="中" change="" />
+<param default="高" change="" />
+<param default="未選択の項目があります" change="" />
+
+<param default="講師映像表示のバッファ時間" change="管理者映像表示のバッファ時間" />
+<param default="講師映像表示のバッファ時間（再play）" change="管理者映像表示のバッファ時間（再play）" />
+
+<param default="講師画面レイアウト" change="管理者画面レイアウト" />
+<param default="受講生画面レイアウト" change="ユーザー画面レイアウト" />
+<param default="講師画面コンテンツ配置" change="管理者画面コンテンツ配置" />
+<param default="受講生画面コンテンツ配置" change="ユーザー画面コンテンツ配置" />
+<param default="受講生一覧の映像表示方法（1）全員表示" change="ユーザー一覧の映像表示方法（1）全員表示" />
+<param default="受講生一覧の映像表示方法（2）ピックアップ表示" change="ユーザー一覧の映像表示方法（2）ピックアップ表示" />
+<param default="分割方法" change="" />
+<param default="列" change="" />
+<param default="1行追加" change="" />
+<param default="使用しないブロックを詰める" change="" />
+<param default="※ 保存時に使用しないブロックは自動で詰められます" change="" />
+<param default="使用する" change="" />
+<param default="使用しない" change="" />
+<param default="画面モード名を入力してください" change="" />
+<param default="講師画面レイアウト／コンテンツ配置が不正です" change="管理者画面レイアウト／コンテンツ配置が不正です" />
+<param default="受講生画面レイアウト／コンテンツ配置が不正です" change="ユーザー画面レイアウト／コンテンツ配置が不正です" />
+<param default="受講生一覧の映像表示方法（1）全員表示の指定が不正です" change="ユーザー一覧の映像表示方法（1）全員表示の指定が不正です" />
+<param default="受講生一覧の映像表示方法（2）ピックアップ表示の指定が不正です" change="ユーザー一覧の映像表示方法（2）ピックアップ表示の指定が不正です" />
+<param default="左カラム" change="" />
+<param default="右カラム" change="" />
+<param default="フルカラム" change="" />
+　
+<param default="資料" change="" />
+<param default="資料を選択" change="" />
+<param default="カメラ映像" change="" />
+<param default="無地" change="" />
+<param default="選択ツール" change="" />
+<param default="鉛筆ツール" change="" />
+<param default="スムーズペンツール" change="" />
+<param default="拡大ツール" change="" />
+<param default="縮小ツール" change="" />
+<param default="直線ツール" change="" />
+<param default="長方形ツール" change="" />
+<param default="楕円ツール" change="" />
+<param default="テキストツール" change="" />
+<param default="消しゴムツール" change="" />
+<param default="画像識別IDが設定されていないため、ホワイトボードに画像スライド追加できません" change="" />
+<param default="ホワイトボードの共有モードがONになりました" change="" />
+<param default="ホワイトボードの共有モードがOFFになりました" change="" />
+<param default="DOCLIST_URLが設定されていないためファイルを取得できませんでした" change="" />
+<param default="追加完了" change="" />
+<param default="DOCLIST_URLが設定されていないため資料一覧を取得できませんでした" change="" />
+<param default="資料一覧取得時エラー" change="" />
+<param default="アップロードされた全ての資料を削除します" change="" />
+<param default="ファイル情報を取得できません" change="" />
+<param default="ファイルアップロード" change="" />
+<param default="同名のファイルが既に存在しています" change="" />
+<param default="新規フォルダ追加" change="" />
+<param default="新規フォルダ作成に失敗しました" change="" />
+<param default="そのフォルダは既に存在しています" change="" />
+<param default="ファイル送信開始" change="" />
+<param default="ファイル送信中…" change="" />
+<param default="処理中…" change="" />
+<param default="ファイル送信完了" change="" />
+<param default="送信失敗" change="" />
+<param default="一部のファイルアップロードに失敗しました" change="" />
+<param default="docid[%s]に対応する資料が見つかりませんでした" change="" />
+<param default="他のユーザとポインターを共有できません" change="" />
+<param default="共有モード" change="" />
+<param default="資料閲覧" change="" />
+<param default="共有描画をすべて削除します" change="" />
+<param default="共有描画以外の描画をすべて削除します" change="" />
+<param default="ポインター表示" change="" />
+<param default="枠線" change="" />
+<param default="塗りつぶし" change="" />
+
+<param default="受講者には非表示にする" change="ユーザーには非表示にする" />
+<param default="現在使用できません" change="" />
+
+<param default="全員" change="" />
+<param default="ピックアップ表示" change="" />
+<param default="※ ピックアップリストは環境設定 > 画面モード一覧 から設定できます。" change="" />
+
+<param default="未出席　" change="" />
+<param default="出席中　" change="" />
+<param default="通信切断" change="" />
+<param default="挙手中　" change="" />
+
+<param default="名前" change="" />
+<param default="挙手・出席状況" change="" />
+<param default="チャット" change="" />
+
+<param default="回答者なし" change="" />
+<param default="未回答" change="" />
+<param default="未回答者はいません" change="" />
+
+
+<param default="新しいアンケートを作成" change="" />
+<param default="アンケート一覧" change="" />
+<param default="集計前" change="" />
+<param default="集計中..." change="" />
+<param default="回答済み" change="" />
+<param default="集計終了" change="" />
+<param default="集計開始" change="" />
+<param default="集計結果を保存して終了" change="" />
+<param default="アンケートにcreateDateは必須です" change="" />
+<param default="%sへの回答をお願いします" change="" />
+<param default="%sには選択肢が設定されていません" change="" />
+<param default="タイトルを入力してください" change="" />
+<param default="選択肢を設定してください" change="" />
+<param default="タイトル" change="" />
+<param default="質問文" change="" />
+<param default="選択肢" change="" />
+<param default="クリア" change="" />
+<param default="追加" change="" />
+<param default="変更を適用する" change="" />
+<param default="アンケート集計結果を生徒に表示する" change="アンケート集計結果をユーザーに表示する" />
+<param default="投票数／全投票数" change="" />
+
+
+
+<param default="終了予定時刻の%s分前です" change="" />
+<param default="授業開始/終了時刻のフォーマットが正しくありません。" change="開始/終了時刻のフォーマットが正しくありません。" />
+<param default="正しくは'YYYY-MM-DD hh:mm:ss'です。" change="" />
+<param default="getparam.phpにて設定しているSTART_TIME、END_TIMEの値を確認してください。" change="" />
+<param default="%s分前" change="" />
+
+<param default="録画する" change="" />
+<param default="録画中..." change="" />
+<param default="録画停止" change="" />
+<param default="録画停止中" change="" />
+<param default="録画準備中" change="" />
+<param default="録画準備に失敗しました。再度お試しください。" change="" />
+
+<param default="画面キャプチャ一覧" change="" />
+<param default="キャプチャ画像を保存しました" change="" />
+<param default="画面モード:" change="" />
+<param default="画面レイアウトをリセット" change="" />
+<param default="ウェブページ共有" change="" />
+<param default="ライブストリーミング映像はキャプチャできません。" change="" />
+<param default="キャプチャ画像の保存失敗" change="" />
+<param default="UPLOAD_URLが指定されていないためキャプチャ画像を保存できません" change="" />
+
+<param default="挙手をする" change="" />
+<param default="挙手中..." change="" />
+<param default="挙手取りやめ" change="" />
+<param default="ウェブページ共有ボタンをクリックしてください" change="" />
+
+<param default="（例）" change="" />
+<param default="書き込み" change="" />
+<param default="個別チャットにメッセージが書き込まれました" change="" />
+<param default="%sさんが個別チャットにメッセージを書き込みました" change="" />
+
+<param default="ファイル受信完了" change="" />
+<param default="%sさんからファイルが届きました" change="" />
+<param default="ファイル一覧取得時エラー" change="" />
+<param default="送信者" change="" />
+<param default="日付" change="" />
+<param default="サイズ" change="" />
+<param default="名前" change="" />
+<param default="FLIST_URLが設定されていないためファイル一覧を取得できませんでした" change="" />
+<param default="UPLOAD_URLが設定されていないためアップロードできませんでした" change="" />
+<param default="UPLOAD_URLが設定されていないためダウンロードできませんでした" change="" />
+<param default="DOWNLOAD_URLが設定されていないためダウンロードできませんでした" change="" />
+
+<param default="送信先" change="" />
+<param default="※ 送信先は講師のみになります。" change="※ 送信先は管理者のみになります。" />
+<param default="全員" change="" />
+<param default="ファイルを選択" change="" />
+<param default="ファイルが選択されていません" change="" />
+<param default="   送信する   " change="" />
+<param default="UPLOAD_URLが設定されていないためファイルを送信できませんでした" change="" />
+
+
+<param default="映像不具合を報告" change="" />
+<param default="%sにより講師映像の不具合が報告されました。" change="%sにより管理者映像の不具合が報告されました。" />
+<param default="映像（音声）が正常に配信されていない可能性があります。再読み込みしますか？" change="" />
+
+
+<param default="一部の定数の読み込みに失敗しました。paramに属性（name/value）が存在しません。" change="" />
+<param default="一部の定数の読み込みに失敗しました。paramが存在しません。" change="" />
+<param default="一部の定数の読み込みに失敗しました。memberに属性（uid/name/img/islecturer）が存在しません。" change="" />
+<param default="参加者リストの読み込みに失敗しました。memberが存在しません。" change="" />
+<param default="画面モードの読み込みに失敗しました。mode.@date, mode.title, mode.lecturer, mode.student は必須です。" change="" />
+<param default="DBからのアンケートの読み込みに失敗しました。questionnaire.@date, questionnaire.title, questionnaire.selection は必須です。" change="" />
+
+<param default="通信エラー" change="" />
+<param default="共有オブジェクト取得に失敗しているため、強制退去の処理ができません" change="" />
+<param default="通信エラーにより、新規登録された画面モードを他ユーザと共有できません" change="" />
+<param default="通信エラーにより、ログを書き込みできません" change="" />
+<param default="通信エラーにより、講師の動画配信設定のSharedObjectを取得できませんでした" change="通信エラーにより、管理者の動画配信設定のSharedObjectを取得できませんでした" />
+<param default="通信エラーにより、%sさんの動画配信設定のSharedObjectを取得できませんでした" change="" />
+<param default="通信エラーにより、書き込みを反映できません" change="" />
+<param default="通信エラーにより、受講生にウェブページ共有ボタンのクリック要請アラートを表示できません" change="通信エラーにより、ユーザーにウェブページ共有ボタンのクリック要請アラートを表示できません" />
+<param default="通信エラーにより、指名を他の参加者と共有できませんでした" change="" />
+<param default="通信エラーにより、変更を反映できませんでした" change="" />
+<param default="通信エラーにより、表示状態を受講生画面と共有できませんでした" change="通信エラーにより、表示状態をユーザー画面と共有できませんでした" />
+<param default="通信エラーにより、ホワイトボードを他の参加者と共有できません" change="" />
+<param default="画面モード選択エラー" change="" />
+<param default="参加メンバーが登録されていません" change="" />
+<param default="警告：保存した画像（PNG画像）に拡張子が指定されていませんでした。画像が見られない場合はファイルに拡張子.pngを設定してください。" change="" />
+<param default="画面モード選択エラー" change="" />
+<param default="共有ホワイトボードスライド（背景ID：%s）が本ユーザには未登録のため表示できません。" change="" />
+<param default="他の参加者画面と不整合が生じている恐れがありますので、ページを再読み込みするか、資料を選択し直してください。" change="" />
+<param default="他の参加者画面と不整合が生じている恐れがありますので、ページを再読み込みするか、講師に資料を選択し直すよう、ご連絡ください。" change="他の参加者画面と不整合が生じている恐れがありますので、ページを再読み込みするか、管理者に資料を選択し直すよう、ご連絡ください。" />
+<param default="%sのPOSITIONINGは設定されていません" change="" />
+<param default="退席しました。回線状況により退席した可能性もあります。再度参加する場合はブラウザを更新してページを再読み込みしてください。" change="" />
+
+
+<param default="配信サーバへ接続中" change="" />
+<param default="セッションが切れました。ブラウザを更新して、再入室してください。" change="" />
+<param default="指名されました" change="" />
+<param default="録画画面のタイプ（type）が指定されていません" change="" />
+<param default="参加しました" change="" />
+<param default="挙手しました" change="" />
+<param default="挙手終了" change="" />
+<param default="接続確認しました" change="" />
+<param default="通信切断状態です" change="" />
+<param default="通信切断しました" change="" />
+<param default="授業終了" change="終了" />
+<param default="接続が切れました" change="" />
+<param default="ライブ授業は終了しています" change="" />
+<param default="受講生全員の接続を切断します" change="ユーザー全員の接続を切断します" />
+<param default="受講生はこのライブ授業枠に入室できなくなります！" change="再度入室できなくなります" />
+<param default="本当に授業を終了しますか？" change="本当に終了しますか？" />
+<param default="共有オブジェクト取得に失敗しているため、授業終了の処理ができません" change="共有オブジェクト取得に失敗しているため、終了の処理ができません" />
+
+<param default="%sさんが指名されました" change="" />
+<param default="%sのSharedObjectに接続できません" change="" />
+<param default="未定義の端末タイプ: %s が指定されました" change="" />
+<param default="%sさんが挙手しました" change="" />
+<param default="%sさん" change="" />
+<param default="%sさんが参加しました" change="" />
+<param default="%sが参加しました" change="" />
+<param default="%sの通信切断を確認しました" change="" />
+<param default="%sさんを強制退室させました" change="" />
+<param default="%sは削除されたので、画面モードを選択し直してください" change="" />
+<param default="%sは未登録uidなのでDB反映が行えません" change="" />
+<param default="%sが設定されていないためDBに保存できませんでした" change="" />
+<param default="画面モード[%s]の読み込みに失敗しました。左カラムが空です。" change="" />
+<param default="画面モード[%s]の読み込みに失敗しました。カラムのウィンドウ指定が不正です。" change="" />
+
+
+<param default="携帯" change="" />
+<param default="はい" change="" />
+<param default="いいえ" change="" />
+<param default="よろしくお願いします" change="" />
+<param default="分かりました" change="" />
+<param default="ありがとうございました" change="" />
+<param default="チャット定型文" change="" />
+
+
+
+
+
+<param default="映像・音声の再読み込み" change="" />
+<param default="%sの映像・音声を自動再読み込みしました" change="" />
+<param default="配信のやり直し" change="" />
+<param default="配信をやり直しします" change="" />
+<param default="%sの配信をやり直しさせます" change="" />
+<param default="受講生全員の配信をやり直しさせます" change="ユーザー全員の配信をやり直しさせます" />
+<param default="共有オブジェクト取得に失敗しているため、配信やり直しの処理ができません" change="" />
+
+<param default="%sを強制退室させます" change="" />
+<param default="受講生全員を強制退去させます" change="ユーザー全員を強制退去させます" />
+
+
+
+
+
+
+<param default="swf読み込み時にflashvars.memberlist_urlが指定されていません" change="" />
+<param default="のmembersに属性colがありません" change="" />
+<param default="のmembersに子要素uidがありません" change="" />
+<param default="にmembersがありません" change="" />
+
+
+<param default="言語ファイル読み込み完了、定数ファイル読み込み開始" change="" />
+<param default="定数ファイル読み込み完了、初期化開始" change="" />
+<param default="初期化完了、サーバ接続準備開始" change="" />
+<param default="初期化チェックポイント: 受講生一覧の初期化開始" change="初期化チェックポイント: ユーザー一覧の初期化開始" />
+<param default="初期化チェックポイント: 受講生一覧の初期化完了" change="初期化チェックポイント: ユーザー一覧の初期化完了" />
+<param default="初期化チェックポイント: 画面モード一覧の初期化開始" change="" />
+<param default="初期化チェックポイント: 画面モード一覧の初期化完了" change="" />
+<param default="サーバ接続準備完了、サーバ接続開始" change="" />
+<param default="サーバ接続成功、ネットワーク系初期化開始" change="" />
+<param default="ネットワーク系初期化完了" change="" />
+<param default="全体の経過時間" change="" />
+<param default="前チェックポイントからの経過時間" change="" />
+
+
+</data>

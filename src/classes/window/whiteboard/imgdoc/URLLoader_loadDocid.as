@@ -1,0 +1,1 @@
+﻿package window.whiteboard.imgdoc {	import flash.display.*;	import flash.net.*;	import flash.utils.*;	import flash.events.*;		public class URLLoader_loadDocid extends URLLoader {				public var docid:String;				public function URLLoader_loadDocid( docid:String) {			super();			this.docid = docid;		}	}}

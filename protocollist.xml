@@ -1,0 +1,10 @@
+<protocollist>
+<set protocol="rtmp" port="1935" />
+<set protocol="rtmp" port="80" />
+<set protocol="rtmp" port="443" />
+<set protocol="rtmp" port="8080" />
+<set protocol="rtmpt" port="1935" />
+<set protocol="rtmpt" port="80" />
+<set protocol="rtmpt" port="443" />
+<set protocol="rtmpt" port="8080" />
+</protocollist>

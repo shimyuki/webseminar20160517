@@ -1,0 +1,7 @@
+uid,入室時刻,デバイス,HTTP_USER_AGENT
+"double""aaa"",""bbb""","2014/09/06 15:56:53",pc,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0"
+""";alert(document.cookie);""","2014/09/06 15:57:26",pc,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0"
+""";alert(document.cookie);""","2014/09/06 15:59:07",pc,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0"
+""";alert(document.cookie);""","2014/09/06 16:20:43",pc,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0"
+""";alert(document.cookie);""","2014/09/06 16:24:44",pc,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0"
+""";alert(document.cookie);""","2014/09/06 16:27:32",pc,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MDDCJS; rv:11.0) like Gecko"

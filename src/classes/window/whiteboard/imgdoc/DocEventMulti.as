@@ -1,0 +1,1 @@
+﻿package window.whiteboard.imgdoc {	import flash.events.*;			public class DocEventMulti extends Event {		static public const ADDED:String = "DocEventMulti ADDED";		public var docArr:Array;		public function DocEventMulti( type:String, docArr:Array) {			super( type);			this.docArr = docArr;		}	}}
